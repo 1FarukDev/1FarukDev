@@ -8,8 +8,8 @@ Frontend Software Developer TailwindCss Advocate
 
 * 🌍  I'm based in Lagos
 * ✉️  You can contact me at [ajibadefarukyoungprof02@gmail.com](mailto:ajibadefarukyoungprof02@gmail.com)
-* 🧠  I'm learning Reactjs
-* 🤝  I'm open to collaborating on Open source projects
+* 🧠  I'm learning typescript💥
+* 🤝  I'm open to collaborating on Open source projects
 * ⚡  I love solving problems
 
 ### Skills
