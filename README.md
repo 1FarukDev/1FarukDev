@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-End Developer and a newbie Mobile Developer
 -------------------------------------------------
 
-Frontend Software Developer TailwindCss Advocate
+Frontend Software Developer TailwindCSS Advocate
 
 * 🌍  I'm based in Lagos
 * ✉️  You can contact me at [ajibadefarukyoungprof02@gmail.com](mailto:ajibadefarukyoungprof02@gmail.com)
