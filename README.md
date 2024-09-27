@@ -4,11 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-End Developer(WEB and Mobile)
 -------------------------------------------------
 
-Frontend Software Developer TailwindCSS Advocate
+Fullstack software developer TailwindcSS & shadcn ui Advocate
 
 * 🌍  I'm based in Lagos
 * ✉️  You can contact me at [ajibadefarukyoungprof02@gmail.com](mailto:ajibadefarukyoungprof02@gmail.com)
-* 🧠  I'm learning typescript💥
 * 🤝  I'm open to collaborating on Open source projects
 * ⚡  I love solving problems
 
